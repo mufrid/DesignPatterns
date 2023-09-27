@@ -1,6 +1,6 @@
 using System.Diagnostics.Contracts;
-using System.Security.Cryptography.X509Certificates;
 using System.Collections.ObjectModel;
+
 namespace GroupCheckin.Domain;
 
 public class Appointment

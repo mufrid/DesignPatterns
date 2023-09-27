@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System.Dynamic;
 namespace GroupCheckin.Domain;
 
